@@ -5,10 +5,10 @@ super("Inicio");
 }
 
 preload(){
-    this.load.image("fondo","../assets/fondo.png");
-    this.load.image("bird","../assets/bird1.png");
-    this.load.image("pipe","../assets/pipe.png");
-    this.load.image("portada","../assets/portada.png");
+    this.load.image("fondo","fondo.png");
+    this.load.image("bird","bird1.png");
+    this.load.image("pipe","pipe.png");
+    this.load.image("portada","portada.png");
 }
 
 create(){
